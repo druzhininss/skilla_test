@@ -1,0 +1,16 @@
+.header {
+  display: flex;
+  align-items: center;
+  padding-left: 25px;
+  /* header */
+  position: relative;
+  width: 1680px;
+  height: 64px;
+  left: 240px;
+  top: 0px;
+  z-index: 1;
+
+  background: #FFFFFF;
+  /* тень */
+  box-shadow: 0px 4px 5px #E9EDF3;
+}

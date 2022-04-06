@@ -1,0 +1,25 @@
+.sidebar {
+  height: 963px;
+  width: 240px;
+  left: 0px;
+  top: 0px;
+  border-radius: 0px;
+  background: #091336;
+}
+
+.logo {
+  height: 64px;
+  margin-bottom: 30px;
+}
+
+.buttons {
+  display: flex;
+  align-items: center;
+  color: rgb(128, 145, 166);
+  height: 50px;
+  padding-left: 30px;
+}
+
+.buttons:hover {
+  background-color: rgb(66, 76, 104);
+}
